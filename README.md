@@ -1,2 +1,2 @@
 # Area-de-Trabalho
-Aqui ficará compilado grandes parte dos projetos elaborados na faculdade
+Aqui ficarão compilado os projetos na faculdade
