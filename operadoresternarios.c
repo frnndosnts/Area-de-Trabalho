@@ -5,7 +5,7 @@
 int main() {
 
     int numeroJogador, numeroComputador, Resultado;
-    char tipoComparacao
+    char tipoComparacao;
 
 //Gerar número aleatório
     srand(time(0));
