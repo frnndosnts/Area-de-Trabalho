@@ -10,7 +10,7 @@ printf(" Movimentação da Peça Torre: \n");
     }
 
 //Movendo o Bispo.
-
+printf("\n");
 int i = 0;
 
     printf(" Movimentação da Peça Bispo: \n");
@@ -22,9 +22,8 @@ int i = 0;
     }
     
 //Movendo a Rainha.
-
+printf("\n");
 int d = 1;
-
     printf(" Movimentação da Peça Rainha: \n");
 
     do {
@@ -32,5 +31,23 @@ int d = 1;
         d++;
     } while (d <= 8);
 
+//Movendo o Cavalo.
+
+    printf("\n");
+    printf("Movimentação da peça Cavalo:  \n");
+
+    for (int j = 1; j > 0; j--)
+    {
+        int k = 0;
+       while (k <= 1)
+       {
+        printf("Baixo \n");
+        k++;
+
+       }
+       
+    printf("Esquerda  \n");
+    printf("\n");
+    }
     return 0;
 }
